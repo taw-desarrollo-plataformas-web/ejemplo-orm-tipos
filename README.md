@@ -42,3 +42,7 @@ docker compose up -d
 * Ejecutar modelo.py (verificar en la base de datos que exista la tabla)
 * Ejecutar ingresar_datos.py (verificar que la tabla en la base de datos tenga información)
 * Ejecutar consultar_datos.py (verificar la información de salida correspondiente)
+
+-----
+
+* Este proyecto es de caracter académico
